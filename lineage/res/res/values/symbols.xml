@@ -130,10 +130,6 @@
     <java-symbol type="anim" name="last_app_in" />
     <java-symbol type="anim" name="last_app_out" />
 
-    <!-- Back kill -->
-    <java-symbol type="string" name="app_killed_message" />
-    <java-symbol type="integer" name="config_backKillTimeout" />
-
     <!-- Accent colors -->
     <java-symbol type="string" name="accent_amber" />
     <java-symbol type="string" name="accent_black" />
