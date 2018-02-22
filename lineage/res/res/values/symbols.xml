@@ -134,9 +134,6 @@
     <java-symbol type="string" name="app_killed_message" />
     <java-symbol type="integer" name="config_backKillTimeout" />
 
-    <!-- Power menu -->
-    <java-symbol type="array" name="config_restartActionsList" />
-
     <!-- Accent colors -->
     <java-symbol type="string" name="accent_amber" />
     <java-symbol type="string" name="accent_black" />
